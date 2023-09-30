@@ -55,3 +55,4 @@ The `HostingCostController` calculates the cost of hosting services based on the
 - **GET** `/api/HostingCost/{id}`: Calculates the hosting cost for a specified number of days and returns the details, including fortnights, HST, and the total cost.
 
 ---
+All the controllers are located in the Controllers folder.
